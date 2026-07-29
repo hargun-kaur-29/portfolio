@@ -1,0 +1,15 @@
+# Ignore resume source markdown (use CONTEXT.md for project notes)
+resume-md/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
